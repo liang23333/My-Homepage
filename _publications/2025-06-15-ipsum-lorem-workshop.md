@@ -9,5 +9,6 @@ venue: 'Under review at COML Workshop on Large Language Models (COMLW 2025)'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem-workshop.pdf'
 paperurl: 'https://openreview.net/forum?id=example123wpsk'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem-workshop.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need for a workshop." <i>Under review at COML Workshop on Large Language Models (COMLW 2025)</i>.'
+codeurl: 'https://github.com/liang23333/ipsum-lorem-all-you-need'
+citation: 'John Smith, et al. (2025). \"Ipsum Lorem is all you need for a workshop.\" \u003ci\u003eUnder review at COML Workshop on Large Language Models (COMLW 2025)\u003c/i\u003e.'
 ---
